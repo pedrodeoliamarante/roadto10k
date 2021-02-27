@@ -1,10 +1,14 @@
-Date;Hours;What was studied;;
-14/02/2021;1.00;revised python;;
-15/02/2021;2.00;started classes python;;
-16/02/2021;3.00;finished python in CA (classes + decorators) and read Clean Code;;
-17/02/2021;3.33;finished terminal classes in CA | started Chimpokomon project and read Clean Code a bit;;
-18/02/2021;2.75;2h + 16 min chinpokomon | 24 min watson api | 5 min flask;;
-19/02/2021;1.00;40min flask | 20 min chinpokomon;;
-20/02/2021;3.25;1:50 chinpokomon | 1:25 min edabit | ;;
-21/02/2021;0.50;30min planning 10k |;;
-22/02/2021;1.9;24 min list comprehension | 18 min lambda functions | 50 min files | 20min project;;
+Dates;Hours;What_Was_Studied
+2021-02-14;1.00;revised python
+2021-02-15;2.00;started classes python
+2021-02-16;3.00;finished python in CA (classes + decorators) and read Clean Code
+2021-02-17;3.33;finished terminal classes in CA | started Chimpokomon project and read Clean Code a bit
+2021-02-18;2.75;2h + 16 min chinpokomon | 24 min watson api | 5 min flask
+2021-02-19;1.00;40min flask | 20 min chinpokomon
+2021-02-20;3.25;1:50 chinpokomon | 1:25 min edabit |
+2021-02-21;0.50;30min planning 10k |
+2021-02-22;3.00;24 min list comprehension | 18 min lambda functions | 60 min files | 20min project| rest numpy
+2021-02-23;3.00;80 min matplotlib | 60 min numpy| 40 min panda
+2021-02-24;3.17; 70 min panda+ 10k |60 min intro to panda | 60 min panda aggregate(need to revise)
+2021-02-25;2.83; 80 min panda | 90   min matplotlib
+2021-02-26;3.00; 108 min matplotlib | 45 min  statistics |  22min calculus | quake inverse sqr rot
