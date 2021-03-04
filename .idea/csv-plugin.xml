@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\GUI.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\panda test.py">
           <value>
             <Attribute>

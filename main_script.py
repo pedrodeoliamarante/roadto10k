@@ -28,3 +28,6 @@ def pace_change(days):
 def how_long(total_hours_needed):
     days = round(how_far_behind_goal / total_hours_needed, 2)
     print(days)
+
+
+how_long(0.5)
