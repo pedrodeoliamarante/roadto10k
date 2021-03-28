@@ -12,7 +12,7 @@ for hour in tenkdata.Hours:
 total_days = len(tenkdata.Dates)
 
 # creating how far behind goal variable
-goal = total_days * 3
+goal = total_days * 2
 current_pace = total_hours
 how_far_behind_goal = round(goal - current_pace, 2)
 
@@ -22,7 +22,7 @@ def pace_change(days):
     total_hours_needed = round(how_far_behind_goal / days, 2)
     print(f"You are {how_far_behind_goal} hours behind your expected pace")
     print(
-        f"To get back to your expected pace you need to study {total_hours_needed + 3} hours each day in the next {days} days, which is an increment of {total_hours_needed} hours.")
+        f"To get back to your expected pace you need to study {total_hours_needed + 2} hours each day in the next {days} days, which is an increment of {total_hours_needed} hours.")
 
 
 def how_long(total_hours_needed):
@@ -30,4 +30,4 @@ def how_long(total_hours_needed):
     print(days)
 
 
-how_long(0.5)
+print(total_hours / total_days)
